@@ -5,4 +5,4 @@ After running the code, remember to remove ciclic references to project's module
 
 If the project's modules are object-oriented it is required to add, together with those modules folder, a simple `__init__.py` file, that can be empty. This will trigger, however, the generation of a corresponding `__init__.rst` file that will be added to the contents list of the generated website. You could simply keep it there or, if it bothers you, remove the file and update the repository.
 
-Please remember that the projects are diverse, including those structures. Therefore, it isn't expect the present wrapper to work for all cases and situations. However, it could give a big help for those (as me) unexperientd users of ReadTheDocs.
+Please remember that the projects are diverse, including their structures. Therefore, it isn't expect the present wrapper to work for all cases and situations. However, it could give a big help for those (as me) unexperiente users of ReadTheDocs.
